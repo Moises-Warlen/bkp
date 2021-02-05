@@ -1,0 +1,5 @@
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Dominio\obj\Debug\projetoSMN_ModeloDDD.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Dominio\bin\Debug\projetoSMN_ModeloDDD.Dominio.dll
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Dominio\bin\Debug\projetoSMN_ModeloDDD.Dominio.pdb
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Dominio\obj\Debug\projetoSMN_ModeloDDD.Dominio.dll
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Dominio\obj\Debug\projetoSMN_ModeloDDD.Dominio.pdb

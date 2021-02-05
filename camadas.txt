@@ -1,0 +1,20 @@
+
+Funcoes da camadas DDD
+
+1 - Servico 
+	Camada  de servico é Responsavel pelas APIs , aqui fica as API
+2 - Aplicacao
+	Responsavel por Realizar a Cominicação diretamento do Dominio ela 
+	Nao Permite que Meu Serviço Comunique com meu Dominio 
+3 - Dominio
+        Aqui Temos 3 projeto de class library 
+        1 e o .core este e reponsvel por todas nossas interfaces de servicos e repositorios
+	Responsavel Por Uma Modelagem Solida, Nessa camada temos entidades
+	Interface de contatos para Serviços e repositorios class de Serviço do Dominio e Validaçoes
+        caso nesseçario.
+4 - Infraeestrutura 
+	responsavel por dar Suporte as outras camada e e dividida e mais duas camada 
+        Data
+        CrossCuting
+
+		

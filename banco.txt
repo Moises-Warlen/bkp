@@ -1,0 +1,12 @@
+cadeia de conexao
+
+Server=localhost;Database=master;Trusted_Connection=True;
+
+pasta de log
+Server=localhost;Database=master;Trusted_Connection=True;
+
+pasta de midia de instalacao
+Server=localhost;Database=master;Trusted_Connection=True;
+
+pasta de recurso de instalacao
+Server=localhost;Database=master;Trusted_Connection=True;

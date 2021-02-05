@@ -1,0 +1,12 @@
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\obj\Debug\projetoSMN_ModeloDDD.Infra.Dados.csprojResolveAssemblyReference.cache
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\bin\Debug\projetoSMN_ModeloDDD.Infra.Dados.dll.config
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\bin\Debug\projetoSMN_ModeloDDD.Infra.Dados.dll
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\bin\Debug\projetoSMN_ModeloDDD.Infra.Dados.pdb
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\bin\Debug\EntityFramework.dll
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\bin\Debug\projetoSMN_ModeloDDD.Dominio.dll
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\bin\Debug\projetoSMN_ModeloDDD.Dominio.pdb
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\bin\Debug\EntityFramework.xml
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\obj\Debug\projetoSMN_ModeloDDD.Infra.Dados.dll
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\obj\Debug\projetoSMN_ModeloDDD.Infra.Dados.pdb

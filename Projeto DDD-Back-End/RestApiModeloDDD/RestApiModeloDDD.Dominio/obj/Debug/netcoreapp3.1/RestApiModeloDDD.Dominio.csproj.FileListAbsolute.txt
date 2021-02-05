@@ -1,0 +1,8 @@
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Dominio\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Dominio.deps.json
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Dominio\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Dominio.dll
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Dominio\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Dominio.pdb
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Dominio\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Dominio.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Dominio\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Dominio.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Dominio\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Dominio\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Dominio.dll
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Dominio\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Dominio.pdb

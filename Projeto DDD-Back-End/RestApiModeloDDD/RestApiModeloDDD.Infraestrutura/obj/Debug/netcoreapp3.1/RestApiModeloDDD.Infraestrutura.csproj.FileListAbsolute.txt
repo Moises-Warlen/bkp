@@ -1,0 +1,8 @@
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Infraestrutura\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infraestrutura.deps.json
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Infraestrutura\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infraestrutura.dll
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Infraestrutura\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infraestrutura.pdb
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Infraestrutura\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Infraestrutura\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infraestrutura.AssemblyInfo.cs
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Infraestrutura\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Infraestrutura\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infraestrutura.dll
+C:\Users\SMN\Desktop\Projeto DDD-Back-End\RestApiModeloDDD\RestApiModeloDDD.Infraestrutura\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infraestrutura.pdb
